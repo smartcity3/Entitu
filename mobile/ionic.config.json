@@ -1,5 +1,7 @@
 {
   "name": "groundifly-app",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
