@@ -1,4 +1,4 @@
-const passport = require('backend/config/passport');
+const passport = require('passport');
 const LocalStrategy = require('passport-local');
 
 const User = require('../models/user');
