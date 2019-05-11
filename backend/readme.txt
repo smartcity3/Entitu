@@ -1,0 +1,1 @@
+INSTALL DOCKER: docker run --name groundifly -p 0.0.0.0:27017:27017 -d mongo:latest
